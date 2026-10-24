@@ -2,10 +2,10 @@
 
 <h3 align="center">🚀 Web Developer | AI & Software Developer</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Shehara+Chamod;A+Information+Systerm+Undergraduate+in+Sri+Lanka;Web+Developer;Software+Developer;Project+Management+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Shashika+Vishwajith;A+Information+Systerm+Undergraduate+in+Sri+Lanka;Web+Developer;Software+Developer;Project+Management+Learner;Always+Learning+New+Things" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sheharageesara1-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shashikavishwajith&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Undergraduate at **University of Colombo School of Computing**
-- 🏫 Studied at **Am/D.S Senanayake National Collage**
+- 🏫 Studied at **Rahula College Matara**
 - 💡 Passionate about **AI,Web Development & Software Developer**
 - 🌱 Currently Learning **React & Advanced Note.js**
 - ⚡ Fun fact: *Always curious, always building!*
@@ -60,16 +60,16 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Sheharageesara1-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shashikavishwajith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheharageesara1-web&theme=tokyonight&hide_border=true&background=0d1117" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashikavishwajith&theme=tokyonight&hide_border=true&background=0d1117" width="100%"/>
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheharageesara1-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikavishwajith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 🧠 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheharageesara1-web&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashikavishwajith&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@
 ## 📬 Connect With Me
 
 <p align="left">
-<a href="mailto:Sheharageesara1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:shashikavishwajith2024@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=facebook" /></a>
@@ -153,5 +153,5 @@
 </p>
 
 <p align="center">
-⭐ From <b>Sheharageesara1-web</b> — Always Building, Always Learning 🚀
+⭐ From <b>shashikavishwajith</b> — Always Building, Always Learning 🚀
 </p>
