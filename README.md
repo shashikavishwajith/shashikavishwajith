@@ -2,13 +2,13 @@
 
 <h3 align="center">🚀 Web Developer | AI & Software Developer</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Shashika+Vishwajith;A+Information+Systerm+Undergraduate+in+Sri+Lanka;Web+Developer;Software+Developer;Project+Management+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Shashika+Vishwajith;A+Computer+Science+Undergraduate+in+Sri+Lanka;Web+Developer;Software+Developer;Project+Management+Learner;Always+Learning+New+Things" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashikavishwajith&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
+---
 
 <table>
 <tr>
@@ -95,8 +95,17 @@
 ![Tech](https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react)
 
 </td>
-</tr
-  
+<td width="50%" valign="top">
+
+### 🤖 AI Mini Projects
+> Exploring machine learning and AI-powered applications
+
+![Status](https://img.shields.io/badge/Status-Exploring-blue?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python)
+
+</td>
+</tr>
+
 </table>
 
 ---
@@ -106,7 +115,6 @@
 <p align="left">
 <a href="mailto:shashikavishwajith2024@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
 
