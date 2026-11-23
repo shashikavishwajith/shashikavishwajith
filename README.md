@@ -95,36 +95,8 @@
 ![Tech](https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react)
 
 </td>
-<td width="50%" valign="top">
-
-### 🤖 AI Mini Projects
-> Exploring machine learning and AI-powered applications
-
-![Status](https://img.shields.io/badge/Status-Exploring-blue?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Cyber Security Labs
-> Practice labs for ethical hacking and security fundamentals
-
-![Status](https://img.shields.io/badge/Status-Learning-green?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Linux-FCC624?style=flat-square&logo=linux)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Web Dev Projects
-> Full stack web applications using PHP, JS & more
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-PHP-777BB4?style=flat-square&logo=php)
-
-</td>
-</tr>
+</tr
+  
 </table>
 
 ---
